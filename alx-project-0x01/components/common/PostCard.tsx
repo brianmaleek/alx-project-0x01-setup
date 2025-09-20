@@ -1,0 +1,1 @@
+// components/common/PostCard.tsx
