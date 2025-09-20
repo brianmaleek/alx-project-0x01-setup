@@ -1,4 +1,5 @@
 import Header from "@/components/layout/Header";
+import Footer from "@/components/layout/Footer";
 
 const Home: React.FC = () => {
   return (
@@ -17,7 +18,7 @@ const Home: React.FC = () => {
             </button>
           </div>
         </main>
-      <h1 className="text-7xl font-thin">Welcome Page</h1>
+        <Footer />
     </div>
   )
 }
